@@ -1,0 +1,12 @@
+C:\Users\ASUS\Chess.Asp.Library\Games\bin\Release\net6.0\Games.deps.json
+C:\Users\ASUS\Chess.Asp.Library\Games\bin\Release\net6.0\Games.dll
+C:\Users\ASUS\Chess.Asp.Library\Games\bin\Release\net6.0\Games.pdb
+C:\Users\ASUS\Chess.Asp.Library\Games\obj\Release\net6.0\Games.csproj.AssemblyReference.cache
+C:\Users\ASUS\Chess.Asp.Library\Games\obj\Release\net6.0\Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Chess.Asp.Library\Games\obj\Release\net6.0\Games.AssemblyInfoInputs.cache
+C:\Users\ASUS\Chess.Asp.Library\Games\obj\Release\net6.0\Games.AssemblyInfo.cs
+C:\Users\ASUS\Chess.Asp.Library\Games\obj\Release\net6.0\Games.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Chess.Asp.Library\Games\obj\Release\net6.0\Games.dll
+C:\Users\ASUS\Chess.Asp.Library\Games\obj\Release\net6.0\refint\Games.dll
+C:\Users\ASUS\Chess.Asp.Library\Games\obj\Release\net6.0\Games.pdb
+C:\Users\ASUS\Chess.Asp.Library\Games\obj\Release\net6.0\ref\Games.dll
