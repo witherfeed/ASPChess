@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NtsL9F8jqTIFJ52DvQyDqqRFfn20Bf/X2XHgtG0dlLuB3H0q9bYYxet9+KOdsf7hnB6vRTU5+vZFbO86+D/dzA==",
+  "dgSpecHash": "ECvqTMXWdOwirVD1CP6g/6NCpQb1nd8PB0iTSP+p9eNLMZtG/gSNDuE5P0xMOy4TBSG2XEpGxhd0JJayG98faA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Client\\ASPChess.Client.csproj",
+  "projectFilePath": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Client\\ASPChess.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shest\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.7\\microsoft.aspnetcore.authorization.6.0.7.nupkg.sha512",
     "C:\\Users\\shest\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.7\\microsoft.aspnetcore.components.6.0.7.nupkg.sha512",

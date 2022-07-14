@@ -10,3 +10,15 @@ C:\Users\shest\source\repos\ASPChess\ASPChess\Shared\obj\Debug\net6.0\ASPChess.S
 C:\Users\shest\source\repos\ASPChess\ASPChess\Shared\obj\Debug\net6.0\refint\ASPChess.Shared.dll
 C:\Users\shest\source\repos\ASPChess\ASPChess\Shared\obj\Debug\net6.0\ASPChess.Shared.pdb
 C:\Users\shest\source\repos\ASPChess\ASPChess\Shared\obj\Debug\net6.0\ref\ASPChess.Shared.dll
+C:\Users\shest\Documents\GitHub\ASPChess\ASPChess\Shared\bin\Debug\net6.0\ASPChess.Shared.deps.json
+C:\Users\shest\Documents\GitHub\ASPChess\ASPChess\Shared\bin\Debug\net6.0\ASPChess.Shared.dll
+C:\Users\shest\Documents\GitHub\ASPChess\ASPChess\Shared\bin\Debug\net6.0\ASPChess.Shared.pdb
+C:\Users\shest\Documents\GitHub\ASPChess\ASPChess\Shared\obj\Debug\net6.0\ASPChess.Shared.csproj.AssemblyReference.cache
+C:\Users\shest\Documents\GitHub\ASPChess\ASPChess\Shared\obj\Debug\net6.0\ASPChess.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shest\Documents\GitHub\ASPChess\ASPChess\Shared\obj\Debug\net6.0\ASPChess.Shared.AssemblyInfoInputs.cache
+C:\Users\shest\Documents\GitHub\ASPChess\ASPChess\Shared\obj\Debug\net6.0\ASPChess.Shared.AssemblyInfo.cs
+C:\Users\shest\Documents\GitHub\ASPChess\ASPChess\Shared\obj\Debug\net6.0\ASPChess.Shared.csproj.CoreCompileInputs.cache
+C:\Users\shest\Documents\GitHub\ASPChess\ASPChess\Shared\obj\Debug\net6.0\ASPChess.Shared.dll
+C:\Users\shest\Documents\GitHub\ASPChess\ASPChess\Shared\obj\Debug\net6.0\refint\ASPChess.Shared.dll
+C:\Users\shest\Documents\GitHub\ASPChess\ASPChess\Shared\obj\Debug\net6.0\ASPChess.Shared.pdb
+C:\Users\shest\Documents\GitHub\ASPChess\ASPChess\Shared\obj\Debug\net6.0\ref\ASPChess.Shared.dll

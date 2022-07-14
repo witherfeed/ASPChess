@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/bNgFlEwSgqCOukudPONKvWQBwYRTCpYykyJ6ygymLz9gV+sW3hJuC0kNiPaIrSZVU5mcxRwZOj+wIfH+7Pd8g==",
+  "dgSpecHash": "ZyBBa8WCqSaJlGc4Vi8XaZPz7cTdc0dUwEI798xzzc/REIBgZggbmJWdx+++7pnDpmwY33xMtDWGlz4WS97JBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shest\\source\\repos\\Games\\Games.csproj",
+  "projectFilePath": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Games\\Games.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

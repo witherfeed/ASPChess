@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Py1A37RYJMCVcAgFSirg6NuarIl6lnzwmwSlZXaYul/eVIq+wzD9NFjPg7B1ppJ6pfmbFFtAWKGVX6mG34jZA==",
+  "dgSpecHash": "wzsgUby2SggzGh/q7Km1IO1cLRX45y4LcuAUtRHKmUTpzn8yN3ZATbujUIC0wRc7ozWXXe/hIJGwwh/64A/dDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj",
+  "projectFilePath": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

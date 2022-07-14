@@ -1110,8 +1110,8 @@
     },
     "Games/1.0.0": {
       "type": "project",
-      "path": "../../../Games/Games.csproj",
-      "msbuildProject": "../../../Games/Games.csproj"
+      "path": "../Games/Games.csproj",
+      "msbuildProject": "../Games/Games.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1128,11 +1128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Server\\ASPChess.Server.csproj",
+      "projectUniqueName": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Server\\ASPChess.Server.csproj",
       "projectName": "ASPChess.Server",
-      "projectPath": "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Server\\ASPChess.Server.csproj",
+      "projectPath": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Server\\ASPChess.Server.csproj",
       "packagesPath": "C:\\Users\\shest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Server\\obj\\",
+      "outputPath": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1153,11 +1153,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Client\\ASPChess.Client.csproj": {
-              "projectPath": "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Client\\ASPChess.Client.csproj"
+            "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Client\\ASPChess.Client.csproj": {
+              "projectPath": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Client\\ASPChess.Client.csproj"
             },
-            "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj": {
-              "projectPath": "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj"
+            "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj": {
+              "projectPath": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj"
             }
           }
         }

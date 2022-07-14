@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shest\\source\\repos\\Games\\Games.csproj",
+      "projectUniqueName": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Games\\Games.csproj",
       "projectName": "Games",
-      "projectPath": "C:\\Users\\shest\\source\\repos\\Games\\Games.csproj",
+      "projectPath": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Games\\Games.csproj",
       "packagesPath": "C:\\Users\\shest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shest\\source\\repos\\Games\\obj\\",
+      "outputPath": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Games\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

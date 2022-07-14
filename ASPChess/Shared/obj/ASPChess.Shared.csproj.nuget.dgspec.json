@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj": {}
+    "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj": {
+    "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj",
         "projectName": "ASPChess.Shared",
-        "projectPath": "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj",
+        "projectPath": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Shared\\ASPChess.Shared.csproj",
         "packagesPath": "C:\\Users\\shest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shest\\source\\repos\\ASPChess\\ASPChess\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\shest\\Documents\\GitHub\\ASPChess\\ASPChess\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

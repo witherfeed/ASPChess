@@ -196,17 +196,17 @@
       "mscorlib.dll": "sha256-wmk56X5dbt29rrFZKEFpOFjotkZA+JSxA4fqkgmBsOU=",
       "netstandard.dll": "sha256-CvlfDmNgFRYT7l\/xZKu91FlbTFyLG\/5cH7YX63k9ghE=",
       "System.Private.CoreLib.dll": "sha256-aF4imeOpA59D6F5qCLabzkeY7MvRZzNYzavhB\/bdxvM=",
-      "ASPChess.Shared.dll": "sha256-camq8DFvVQO0v8vYElJyOHYtyqCnVGn2Z5VkEv2tF0Q=",
-      "Games.dll": "sha256-f3D8uN6e6fqx6EwShPfHG+wK\/iwwFwmNeNUYXfEFtHk=",
-      "ASPChess.Client.dll": "sha256-tFRL9vewdvWbwyXMcaCRPVhVk3ttOp5SxEZw2CFtdzU="
+      "ASPChess.Shared.dll": "sha256-YUL7HaKBbUIpVr5vOeeyB10PCylEL7TcmnlePwaukWQ=",
+      "Games.dll": "sha256-1u5+e28jWa2hQP06LZ2xq2lLlGVKDYyFo\/F4Q\/MvAko=",
+      "ASPChess.Client.dll": "sha256-Vm\/D8H4xuyirojuiq2I068HzfDvcn45v94smcmqydAk="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Games.pdb": "sha256-NFwOaLp1pB1QtNxAAXkad6fJkylQzdBx8Cy6s49tCYs=",
-      "ASPChess.Shared.pdb": "sha256-BSqT\/1\/5XiuBBt\/NeC5Y9osN4e79lvbrPpgEEIkg+zg=",
-      "ASPChess.Client.pdb": "sha256-hX\/c1J4U2Dslp8Wnus2Vmg8iVkdP6nLFBgpBYuSDbxQ="
+      "Games.pdb": "sha256-E2B42BSQWA8QVDpgpHXBI346N6qratR+aBbQl3WN6gw=",
+      "ASPChess.Shared.pdb": "sha256-tU59fksBe9Z3oAktqLZjlA+utdqzgIAOwcu0XLJeaP4=",
+      "ASPChess.Client.pdb": "sha256-4OWnPn2aJthYfX0ejLiLu8mps\/WvlLbK9nRReKhJjeE="
     },
     "runtime": {
       "dotnet.6.0.7.jmzjv7xo69.js": "sha256-pvJcJ6jtDSfxgXm03QYRTm4aAi9PSzMSJODReHtvASY=",
